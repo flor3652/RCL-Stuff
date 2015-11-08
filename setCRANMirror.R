@@ -1,0 +1,1 @@
+chooseCRANmirror(ind=which(getCRANmirrors()[,1] == "USA (CO)"))
